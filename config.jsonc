@@ -2,9 +2,9 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetc h/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "kitty-direct",
-    "source": "~/.config/fastfetch/eva-01-suho-winda-transparent.png",
-    "width": 52,
-    "height": 26 
+    "source": "~/.config/fastfetch/Evangelion-eva01.png",
+    "width": 46,
+    "height": 25 
   },
   "display": {
     "separator": "   ",
