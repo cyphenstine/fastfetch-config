@@ -3,7 +3,7 @@
   "logo": {
     "type": "kitty-direct",
     "source": "~/.config/fastfetch/Evangelion-eva01.png",
-    "width": 46,
+    "width": 45,
     "height": 25 
   },
   "display": {
