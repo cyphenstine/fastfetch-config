@@ -2,9 +2,9 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetc h/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "kitty-direct",
-    "source": "~/.config/fastfetch/Evangelion-eva01.png",
-    "width": 45,
-    "height": 25 
+    "source": "~/.config/fastfetch/da-computer.png",
+    "width": 40,
+    "height": 16 
   },
   "display": {
     "separator": "   ",
