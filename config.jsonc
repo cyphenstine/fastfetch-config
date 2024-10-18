@@ -33,8 +33,13 @@
     },
     {
       "type": "os",
-      "key": "╭─  OS",
+      "key": "╭─  OS",
       "keyColor": "cyan"
+    },
+    {
+      "type": "de",
+      "key": "├─󰧨  DESKTOP ENVIRONMENT",
+      "keyColor": "red"
     },
     {
       "type": "kernel",
@@ -59,12 +64,12 @@
     {
       "type": "wm",
       "key": "├─  WINDOW MANAGER",
-      "keyColor": "red"
+      "keyColor": "cyan"
     },
     {
       "type": "terminal",
       "key": "╰─  TERMINAL",
-      "keyColor": "magenta"
+      "keyColor": "green"
     },
     "break",
 
