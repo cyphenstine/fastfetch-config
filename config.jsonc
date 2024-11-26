@@ -3,8 +3,8 @@
   "logo": {
     "type": "kitty-direct",
     "source": "~/.config/fastfetch/arch_logo.png ",
-    "width": 20,
-    "height": 9 
+    "width": 22,
+    "height": 10 
   },
   "display": {
     "separator": "   ",
