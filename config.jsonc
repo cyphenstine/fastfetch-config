@@ -28,7 +28,7 @@
     "break",
     {
       "type": "custom",
-      "format": "\u001b[90m╭────────────────────── cyphenstine's - system ──────────────────────╮"
+      "format": "\u001b[90m╭─────────────────────── cyphenstine's - system ───────────────────────╮"
       //'\u001b[90m' is for color
     },
     {
@@ -61,7 +61,11 @@
       "key": "╰─",
       "keyColor": "blue"
     },
-    
+    {
+      "type": "custom",
+      "format": "\u001b[90m╰──────────────────────────────────────────────────────────────────────╯"
+      //'\u001b[90m' is for color
+    },
     "break"
   ]
 }
