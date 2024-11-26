@@ -14,7 +14,7 @@
 	{
 	  "type": "title",
     "key":"",
-    "keyColor": "green",
+    "keyColor": "red",
 	  "color": {
 		  "user": "green",
 		  "at": "white",
