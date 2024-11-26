@@ -7,7 +7,7 @@
     "height": 10 
   },
   "display": {
-    "separator": "   ",
+    "separator": " : ",
     "color": "white"
   },
   "modules": [
