@@ -37,6 +37,11 @@
       "keyColor": "cyan"
     },
     {
+      "type": "kernel",
+      "key": "├─",
+      "keyColor": "red"
+    },
+    {
       "type": "cpu",
       "key": "├─",
       "keyColor": "green"
@@ -45,11 +50,6 @@
       "type": "gpu",
       "key": "├─󰘚",
       "keyColor": "yellow"
-    },
-    {
-      "type": "kernel",
-      "key": "├─",
-      "keyColor": "red"
     },
     {
       "type": "de",
