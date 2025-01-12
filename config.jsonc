@@ -2,9 +2,9 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetc h/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "kitty-direct",
-    "source": "~/.config/fastfetch/arch_logo.png ",
-    "width": 22,
-    "height": 10 
+    "source": "~/.config/fastfetch/fedora_icon.png ",
+    "width": 23,
+    "height": 11 
   },
   "display": {
     "separator": " : ",
@@ -33,7 +33,7 @@
     },
     {
       "type": "os",
-      "key": "╭─󰣇",
+      "key": "╭─",
       "keyColor": "cyan"
     },
     {
