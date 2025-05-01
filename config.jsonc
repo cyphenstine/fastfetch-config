@@ -33,8 +33,8 @@
     },
     {
       "type": "os",
-      "key": "╭─",
-      "keyColor": "cyan"
+      "key": "╭─󰣭",
+      "keyColor": "green"
     },
     {
       "type": "kernel",
@@ -44,7 +44,7 @@
     {
       "type": "cpu",
       "key": "├─",
-      "keyColor": "green"
+      "keyColor": "cyan"
     },
     {
       "type": "gpu",
